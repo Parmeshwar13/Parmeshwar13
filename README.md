@@ -11,6 +11,7 @@ I love creating APIs, automating workflows, and improving system reliability thr
 - 🔭 Currently working as a **Backend Developer** on workforce and asset management systems  
 - 🧠 Learning and implementing **CI/CD pipelines** and **server automation (Linux, Ubuntu, GitHub Actions)**  
 - 🐍 Experienced in **Python**, **Django**, **Django REST Framework**, and **PostgreSQL**  
+- 💻 Expanding front-end skills with **React.js** for full-stack development  
 - ☁️ Exploring **cloud deployment** (Ubuntu server, Hostinger, AWS EC2)  
 - 📬 Building and integrating **email notification systems** and **real-time APIs (SSE, WebSocket)**  
 - 💬 Ask me about: Backend Development, API Design, or Django ORM Magic  
@@ -21,10 +22,10 @@ I love creating APIs, automating workflows, and improving system reliability thr
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-`Python` | `Django` | `Django REST Framework` | `HTML` | `CSS` | `JavaScript`
+`Python` | `Django` | `Django REST Framework` | `FastAPI` | `React.js` | `HTML` | `CSS` | `JavaScript`
 
 **Databases:**  
-`PostgreSQL` | `ClickHouse` | `SQLite`
+`PostgreSQL` | `MySQL` | `SQLite`
 
 **Tools & Platforms:**  
 `Linux (Ubuntu)` | `Git` | `GitHub` | `Postman` | `VS Code` | `Docker` (learning)
@@ -44,8 +45,8 @@ I love creating APIs, automating workflows, and improving system reliability thr
 
 ### 🎯 Career Goals
 - Become a **Full-stack Developer** with a strong focus on **Backend & DevOps**  
-- Contribute to **Open Source** Django and Python projects  
-- Build **AI-integrated backend systems** (GenAI + Django)  
+- Contribute to **Open Source** Django, FastAPI, and Python projects  
+- Build **AI-integrated backend systems** (GenAI + Django/FastAPI)  
 - Master **System Design** and **Scalable API architecture**
 
 ---
