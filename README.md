@@ -8,7 +8,7 @@ I love creating APIs, automating workflows, and improving system reliability thr
 ---
 
 ### 💡 About Me
-- 🔭 Currently working as a **Backend Developer** on workforce and asset management systems  
+- 🔭 Currently working as a **Backend Developer** 
 - 🧠 Learning and implementing **CI/CD pipelines** and **server automation (Linux, Ubuntu, GitHub Actions)**  
 - 🐍 Experienced in **Python**, **Django**, **Django REST Framework**, and **PostgreSQL**  
 - 💻 Expanding front-end skills with **React.js** for full-stack development  
