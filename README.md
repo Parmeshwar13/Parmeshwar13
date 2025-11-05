@@ -61,11 +61,9 @@ I love creating APIs, automating workflows, and improving system reliability thr
   <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
 </a>
 
-<a href="mailto:parmwshwarnarwate1@gmail.com" target="_blank">
-  <img align="left" alt="Gmail" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" />
-</a>
-
 <br clear="left"/>
+
+📧 **Email:** [parmwshwarnarwate1@gmail.com](mailto:parmwshwarnarwate1@gmail.com)
 
 ---
 
