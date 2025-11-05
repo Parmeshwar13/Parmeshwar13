@@ -53,11 +53,21 @@ I love creating APIs, automating workflows, and improving system reliability thr
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmeshwar-narwate-11ba83194)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Parmeshwar13)  
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:parmwshwarnarwate1@gmail.com)  
+<a href="https://www.linkedin.com/in/parmeshwar-narwate-11ba83194" target="_blank">
+  <img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+</a>
+
+<a href="https://github.com/Parmeshwar13" target="_blank">
+  <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
+</a>
+
+<a href="mailto:parmwshwarnarwate1@gmail.com" target="_blank">
+  <img align="left" alt="Gmail" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" />
+</a>
+
+<br clear="left"/>
 
 ---
 
 ### 🧠 Quote I Live By
-> "Code not just to make it work — code to make it better, faster, and smarter."
+> 🧩 *“I don’t just write code — I build logic that speaks, scales, and simplifies the complex.”*
