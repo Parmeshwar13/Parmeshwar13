@@ -1,6 +1,6 @@
 ## 🧑‍💻 Narwate Parmeshwar
 
-### 🚀 Python & Django Developer | Backend Engineer | API Specialist
+### 🚀 Python & Django Developer | Backend Engineer 
 
 👋 Hi there! I'm **Narwate Parmeshwar**, a passionate **Python & Django REST Framework developer** focused on building scalable, secure, and efficient backend systems.  
 I love creating APIs, automating workflows, and improving system reliability through DevOps practices.
